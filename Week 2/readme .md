@@ -192,7 +192,7 @@ Data collected: network connections (`SELECT * FROM netstat`)
 **Shreya Rao**  
 _B.E. Computer Science (IoT, Cybersecurity & Blockchain)_  
 _Alvas Institute of Engineering and Technology_  
-🔗 [GitHub](https://github.com/ShreyaRao477) • [LinkedIn](linkedin.com/in/shreya-rao12)
+🔗 [GitHub](https://github.com/ShreyaRao477) • [LinkedIn](https://linkedin.com/in/shreya-rao12)
 
 ---
 
